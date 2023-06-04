@@ -3,7 +3,7 @@ package Actors;
 public class Kamal {
 
 	public String starName = "Kamal Hasan";
-	public int totalNetworthInCR = 600;
+	public String networthInCR = "600.00";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Kamal sir is nothing but cinema, for me cinema is nothing but Kamal sir");
